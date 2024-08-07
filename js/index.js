@@ -532,15 +532,15 @@
 
 // 38. istifadeciden alinan  n sayda ededden necesinin murekkeb eded oldugunu tapin
 
-// var num = prompt("eded daxil eded")
-// for ( var i = 2; i <= num; i++)  {
-//    if ( num % 2 == 0) {
-//       console.log( "eded murekkebdir")
-//    }
-//    else {
-//       console.log("eded murekkeb deyil")
-//    }
-// }
+var num = prompt("eded daxil eded")
+for ( var i = 2; i <= num; i++)  {
+   if ( num % 2 == 0) {
+      console.log( "eded murekkebdir")
+   }
+   else {
+      console.log("eded murekkeb deyil")
+   }
+}
 
 
 
